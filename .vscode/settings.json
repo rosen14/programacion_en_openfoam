@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "kEpsilon.C": "cpp",
+        "turbulentTransportModels.C": "cpp",
+        "myKEpsilon.C": "cpp"
+    }
+}
