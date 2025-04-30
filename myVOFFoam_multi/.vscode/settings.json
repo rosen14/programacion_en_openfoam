@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "test_solver.C": "cpp",
+        "myVOFFoam.C": "cpp",
+        "myVOFFoam_multi.C": "cpp"
+    }
+}

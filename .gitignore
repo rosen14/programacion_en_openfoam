@@ -1,0 +1,6 @@
+# Ignorar solo carpetas que sean números enteros del 1 al 9
+**/[1-9]*/
+
+# Ignorar solo carpetas que tengan exactamente un punto y solo dígitos (como 1.2)
+**/[0-9].[0-9]*/
+**/[0-9].[0-9][0-9]*/

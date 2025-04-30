@@ -1,0 +1,3 @@
+myVectorField.C
+
+EXE = $(FOAM_MODULE_APPBIN)/myVectorField

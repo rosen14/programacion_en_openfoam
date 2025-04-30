@@ -1,0 +1,4 @@
+SOURCE = \
+myVectorField.C \
+
+# sources

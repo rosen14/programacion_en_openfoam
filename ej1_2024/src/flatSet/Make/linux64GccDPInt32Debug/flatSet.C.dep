@@ -1,0 +1,4 @@
+$(OBJECTS_DIR)/flatSet.C.dep: \
+flatSet.C \
+
+#END

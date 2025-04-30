@@ -1,0 +1,4 @@
+$(OBJECTS_DIR)/myVectorField.C.dep: \
+myVectorField.C \
+
+#END
