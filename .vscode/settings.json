@@ -2,6 +2,14 @@
     "files.associations": {
         "kEpsilon.C": "cpp",
         "turbulentTransportModels.C": "cpp",
-        "myKEpsilon.C": "cpp"
+        "myKEpsilon.C": "cpp",
+        "myVOFFoam.C": "cpp",
+        "bdDdtSchemes.C": "cpp",
+        "bdf4DdtSchemes.C": "cpp",
+        "bdf4DdtScheme.C": "cpp",
+        "myVOFFoam_multi.C": "cpp",
+        "BurgersFoam.C": "cpp",
+        "random": "cpp",
+        "cmath": "cpp"
     }
 }
